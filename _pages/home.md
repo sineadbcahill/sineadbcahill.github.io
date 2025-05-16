@@ -21,7 +21,7 @@ feature_row1:
     btn_label: "Click here for more info!"
     
 feature_row2:
-  - image_path:  # no quotes this time
+  - image_path: /assets/images/RStudio.png # no quotes this time
     alt: "Lectures"
     excerpt: "These are the amazing lectures I learned from"
     url: "https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules/02_RStudio" # note that these can also be full urls that take people to other sites
