@@ -18,15 +18,15 @@ feature_row1:
     excerpt: "Enter a relatively short description here"
     url: "/resources/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say"
+    btn_label: "Click here for more info!"
     
 feature_row2:
-  - image_path: path_to_your_image.png # no quotes this time
+  - image_path:  # no quotes this time
     alt: "Lectures"
-    excerpt: "Enter a relatively short description here"
-    url: "/lectures/" # note that these can also be full urls that take people to other sites
+    excerpt: "These are the amazing lectures I learned from"
+    url: "https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say"
+    btn_label: "Click here for more info!"
     
 feature_row3:
   - image_path: /assets/images/Image_Processing.png # no quotes this time
@@ -34,15 +34,15 @@ feature_row3:
     excerpt: "Editing images using Cell Profiler"
     url: "/image_analysis_project/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Click here to see editing pipeline!"
+    btn_label: "Click here for more info!"
 
 feature_row4:
-  - image_path: path_to_your_image.png # no quotes this time
+  - image_path: /assets/images/ggplot.png # no quotes this time
     alt: "ggplot Project"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "Making graphs using ggplot package in RStudio"
     url: "/gglplot_project/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say" 
+    btn_label: "Click here for more info!" 
 ---
 
 Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)! 
