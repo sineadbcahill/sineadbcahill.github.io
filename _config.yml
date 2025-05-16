@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Sinead's Website"
+title                    : "Sinead Cahill"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sinead Cahill"
@@ -147,6 +147,12 @@ footer:
     - # label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
       # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "sinead.cahill@colostate.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sinead-cahill-136963232/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sineadbcahill"
