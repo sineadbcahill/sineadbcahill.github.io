@@ -15,7 +15,7 @@ classes: wide
 feature_row1:
   - image_path: /assets/images/CM515.png # no quotes this time
     alt: "Resources"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "Resources from CM515"
     url: "https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Click here for more info!"
